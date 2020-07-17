@@ -1,0 +1,35 @@
+{
+  "name": "SinglePage",
+  "version": "1.0.0",
+  "description": "Single Page con JS",
+  "main": ".js",
+  "dependencies": {
+    "css-loader": "^3.6.0",
+    "html-webpack-plugin": "^4.3.0",
+    "node": "^14.5.0",
+    "sass": "^1.26.10",
+    "sass-loader": "^9.0.2",
+    "style-loader": "^1.2.1",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "devDependencies": {
+    "bootstrap": "^4.5.0",
+    "html-loader": "^1.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexiis94/SinglePage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexiis94/SinglePage/issues"
+  },
+  "homepage": "https://github.com/Alexiis94/SinglePage#readme"
+}
